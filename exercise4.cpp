@@ -22,6 +22,7 @@ int main()
                     cout << "Sorry, you have entered an invalid number, please try again "<< endl;
                 }
           i++;
+          return 0;
         }
 
     return 0;
